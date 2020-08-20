@@ -1,0 +1,429 @@
+{
+    "frames": [
+        {
+            "filename": "2_blackheart.png",
+            "frame": { "x": 0, "y": 0, "w": 170, "h": 240 },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 170, "h": 240 },
+            "sourceSize": { "w": 170, "h": 240 }
+        },
+        {
+            "filename": "2_clover.png",
+            "frame": { "x": 170, "y": 0, "w": 170, "h": 240 },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 170, "h": 240 },
+            "sourceSize": { "w": 170, "h": 240 }
+        },
+        {
+            "filename": "2_diamond.png",
+            "frame": { "x": 340, "y": 0, "w": 170, "h": 240 },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 170, "h": 240 },
+            "sourceSize": { "w": 170, "h": 240 }
+        },
+        {
+            "filename": "2_heart.png",
+            "frame": { "x": 510, "y": 0, "w": 170, "h": 240 },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 170, "h": 240 },
+            "sourceSize": { "w": 170, "h": 240 }
+        },
+        {
+            "filename": "3_blackheart.png",
+            "frame": { "x": 680, "y": 0, "w": 170, "h": 240 },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 170, "h": 240 },
+            "sourceSize": { "w": 170, "h": 240 }
+        },
+        {
+            "filename": "3_clover.png",
+            "frame": { "x": 850, "y": 0, "w": 170, "h": 240 },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 170, "h": 240 },
+            "sourceSize": { "w": 170, "h": 240 }
+        },
+        {
+            "filename": "3_diamond.png",
+            "frame": { "x": 1020, "y": 0, "w": 170, "h": 240 },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 170, "h": 240 },
+            "sourceSize": { "w": 170, "h": 240 }
+        },
+        {
+            "filename": "3_heart.png",
+            "frame": { "x": 1190, "y": 0, "w": 170, "h": 240 },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 170, "h": 240 },
+            "sourceSize": { "w": 170, "h": 240 }
+        },
+        {
+            "filename": "4_blackheart.png",
+            "frame": { "x": 1360, "y": 0, "w": 170, "h": 240 },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 170, "h": 240 },
+            "sourceSize": { "w": 170, "h": 240 }
+        },
+        {
+            "filename": "4_clover.png",
+            "frame": { "x": 1530, "y": 0, "w": 170, "h": 240 },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 170, "h": 240 },
+            "sourceSize": { "w": 170, "h": 240 }
+        },
+        {
+            "filename": "4_diamond.png",
+            "frame": { "x": 1700, "y": 0, "w": 170, "h": 240 },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 170, "h": 240 },
+            "sourceSize": { "w": 170, "h": 240 }
+        },
+        {
+            "filename": "4_heart.png",
+            "frame": { "x": 0, "y": 240, "w": 170, "h": 240 },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 170, "h": 240 },
+            "sourceSize": { "w": 170, "h": 240 }
+        },
+        {
+            "filename": "5_blackheart.png",
+            "frame": { "x": 170, "y": 240, "w": 170, "h": 240 },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 170, "h": 240 },
+            "sourceSize": { "w": 170, "h": 240 }
+        },
+        {
+            "filename": "5_clover.png",
+            "frame": { "x": 340, "y": 240, "w": 170, "h": 240 },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 170, "h": 240 },
+            "sourceSize": { "w": 170, "h": 240 }
+        },
+        {
+            "filename": "5_diamond.png",
+            "frame": { "x": 510, "y": 240, "w": 170, "h": 240 },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 170, "h": 240 },
+            "sourceSize": { "w": 170, "h": 240 }
+        },
+        {
+            "filename": "5_heart.png",
+            "frame": { "x": 680, "y": 240, "w": 170, "h": 240 },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 170, "h": 240 },
+            "sourceSize": { "w": 170, "h": 240 }
+        },
+        {
+            "filename": "6_blackheart.png",
+            "frame": { "x": 850, "y": 240, "w": 170, "h": 240 },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 170, "h": 240 },
+            "sourceSize": { "w": 170, "h": 240 }
+        },
+        {
+            "filename": "6_clover.png",
+            "frame": { "x": 1020, "y": 240, "w": 170, "h": 240 },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 170, "h": 240 },
+            "sourceSize": { "w": 170, "h": 240 }
+        },
+        {
+            "filename": "6_diamond.png",
+            "frame": { "x": 1190, "y": 240, "w": 170, "h": 240 },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 170, "h": 240 },
+            "sourceSize": { "w": 170, "h": 240 }
+        },
+        {
+            "filename": "6_heart.png",
+            "frame": { "x": 1360, "y": 240, "w": 170, "h": 240 },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 170, "h": 240 },
+            "sourceSize": { "w": 170, "h": 240 }
+        },
+        {
+            "filename": "7_blackheart.png",
+            "frame": { "x": 1530, "y": 240, "w": 170, "h": 240 },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 170, "h": 240 },
+            "sourceSize": { "w": 170, "h": 240 }
+        },
+        {
+            "filename": "7_clover.png",
+            "frame": { "x": 1700, "y": 240, "w": 170, "h": 240 },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 170, "h": 240 },
+            "sourceSize": { "w": 170, "h": 240 }
+        },
+        {
+            "filename": "7_diamond.png",
+            "frame": { "x": 0, "y": 480, "w": 170, "h": 240 },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 170, "h": 240 },
+            "sourceSize": { "w": 170, "h": 240 }
+        },
+        {
+            "filename": "7_heart.png",
+            "frame": { "x": 170, "y": 480, "w": 170, "h": 240 },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 170, "h": 240 },
+            "sourceSize": { "w": 170, "h": 240 }
+        },
+        {
+            "filename": "8_blackheart.png",
+            "frame": { "x": 340, "y": 480, "w": 170, "h": 240 },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 170, "h": 240 },
+            "sourceSize": { "w": 170, "h": 240 }
+        },
+        {
+            "filename": "8_clover.png",
+            "frame": { "x": 510, "y": 480, "w": 170, "h": 240 },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 170, "h": 240 },
+            "sourceSize": { "w": 170, "h": 240 }
+        },
+        {
+            "filename": "8_diamond.png",
+            "frame": { "x": 680, "y": 480, "w": 170, "h": 240 },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 170, "h": 240 },
+            "sourceSize": { "w": 170, "h": 240 }
+        },
+        {
+            "filename": "8_heart.png",
+            "frame": { "x": 850, "y": 480, "w": 170, "h": 240 },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 170, "h": 240 },
+            "sourceSize": { "w": 170, "h": 240 }
+        },
+        {
+            "filename": "9_blackheart.png",
+            "frame": { "x": 1020, "y": 480, "w": 170, "h": 240 },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 170, "h": 240 },
+            "sourceSize": { "w": 170, "h": 240 }
+        },
+        {
+            "filename": "9_clover.png",
+            "frame": { "x": 1190, "y": 480, "w": 170, "h": 240 },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 170, "h": 240 },
+            "sourceSize": { "w": 170, "h": 240 }
+        },
+        {
+            "filename": "9_diamond.png",
+            "frame": { "x": 1360, "y": 480, "w": 170, "h": 240 },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 170, "h": 240 },
+            "sourceSize": { "w": 170, "h": 240 }
+        },
+        {
+            "filename": "9_heart.png",
+            "frame": { "x": 1530, "y": 480, "w": 170, "h": 240 },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 170, "h": 240 },
+            "sourceSize": { "w": 170, "h": 240 }
+        },
+        {
+            "filename": "10_blackheart.png",
+            "frame": { "x": 1700, "y": 480, "w": 170, "h": 240 },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 170, "h": 240 },
+            "sourceSize": { "w": 170, "h": 240 }
+        },
+        {
+            "filename": "10_clover.png",
+            "frame": { "x": 0, "y": 720, "w": 170, "h": 240 },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 170, "h": 240 },
+            "sourceSize": { "w": 170, "h": 240 }
+        },
+        {
+            "filename": "10_diamond.png",
+            "frame": { "x": 170, "y": 720, "w": 170, "h": 240 },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 170, "h": 240 },
+            "sourceSize": { "w": 170, "h": 240 }
+        },
+        {
+            "filename": "10_heart.png",
+            "frame": { "x": 340, "y": 720, "w": 170, "h": 240 },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 170, "h": 240 },
+            "sourceSize": { "w": 170, "h": 240 }
+        },
+        {
+            "filename": "j_blackheart.png",
+            "frame": { "x": 1190, "y": 720, "w": 170, "h": 240 },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 170, "h": 240 },
+            "sourceSize": { "w": 170, "h": 240 }
+        },
+        {
+            "filename": "j_clover.png",
+            "frame": { "x": 1360, "y": 720, "w": 170, "h": 240 },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 170, "h": 240 },
+            "sourceSize": { "w": 170, "h": 240 }
+        },
+        {
+            "filename": "j_diamond.png",
+            "frame": { "x": 1530, "y": 720, "w": 170, "h": 240 },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 170, "h": 240 },
+            "sourceSize": { "w": 170, "h": 240 }
+        },
+        {
+            "filename": "j_heart.png",
+            "frame": { "x": 1700, "y": 720, "w": 170, "h": 240 },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 170, "h": 240 },
+            "sourceSize": { "w": 170, "h": 240 }
+        },
+        {
+            "filename": "q_blackheart.png",
+            "frame": { "x": 680, "y": 960, "w": 170, "h": 240 },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 170, "h": 240 },
+            "sourceSize": { "w": 170, "h": 240 }
+        },
+        {
+            "filename": "q_clover.png",
+            "frame": { "x": 850, "y": 960, "w": 170, "h": 240 },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 170, "h": 240 },
+            "sourceSize": { "w": 170, "h": 240 }
+        },
+        {
+            "filename": "q_diamond.png",
+            "frame": { "x": 1020, "y": 960, "w": 170, "h": 240 },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 170, "h": 240 },
+            "sourceSize": { "w": 170, "h": 240 }
+        },
+        {
+            "filename": "q_heart.png",
+            "frame": { "x": 1190, "y": 960, "w": 170, "h": 240 },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 170, "h": 240 },
+            "sourceSize": { "w": 170, "h": 240 }
+        },
+        {
+            "filename": "k_blackheart.png",
+            "frame": { "x": 0, "y": 960, "w": 170, "h": 240 },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 170, "h": 240 },
+            "sourceSize": { "w": 170, "h": 240 }
+        },
+        {
+            "filename": "k_clover.png",
+            "frame": { "x": 170, "y": 960, "w": 170, "h": 240 },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 170, "h": 240 },
+            "sourceSize": { "w": 170, "h": 240 }
+        },
+        {
+            "filename": "k_diamond.png",
+            "frame": { "x": 340, "y": 960, "w": 170, "h": 240 },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 170, "h": 240 },
+            "sourceSize": { "w": 170, "h": 240 }
+        },
+        {
+            "filename": "k_heart.png",
+            "frame": { "x": 510, "y": 960, "w": 170, "h": 240 },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 170, "h": 240 },
+            "sourceSize": { "w": 170, "h": 240 }
+        },
+        {
+            "filename": "a_blackheart.png",
+            "frame": { "x": 510, "y": 720, "w": 170, "h": 240 },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 170, "h": 240 },
+            "sourceSize": { "w": 170, "h": 240 }
+        },
+        {
+            "filename": "a_clover.png",
+            "frame": { "x": 680, "y": 720, "w": 170, "h": 240 },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 170, "h": 240 },
+            "sourceSize": { "w": 170, "h": 240 }
+        },
+        {
+            "filename": "a_diamond.png",
+            "frame": { "x": 850, "y": 720, "w": 170, "h": 240 },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 170, "h": 240 },
+            "sourceSize": { "w": 170, "h": 240 }
+        },
+        {
+            "filename": "a_heart.png",
+            "frame": { "x": 1020, "y": 720, "w": 170, "h": 240 },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 170, "h": 240 },
+            "sourceSize": { "w": 170, "h": 240 }
+        }
+    ],
+    "meta": {
+        "app": "https://www.codeandweb.com/texturepacker",
+        "version": "1.0",
+        "image": "symbols.png",
+        "format": "RGBA8888",
+        "size": { "w": 1870, "h": 1200 },
+        "scale": "1",
+        "smartupdate": "$TexturePacker:SmartUpdate:40ee0532b1e916ff663f2cd32a24fb4f:09d6980c42809d22d62ce2cd10765648:d295ed7153fe372207e34d26d380974a$"
+    }
+}
